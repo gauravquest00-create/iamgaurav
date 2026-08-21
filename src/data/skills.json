@@ -1,0 +1,76 @@
+{
+  "categories": [
+    {
+      "id": "frontend",
+      "name": "Frontend Architecture",
+      "description": "Crafting resilient, high-speed, and pixel-precise client interfaces with fluid micro-interactions.",
+      "skills": [
+        { "name": "React", "level": "Expert", "tag": "Core", "description": "Component architecture, custom hooks, context, state optimization, and React 18 patterns." },
+        { "name": "JavaScript", "level": "Expert", "tag": "Core", "description": "ES6+, async/await, DOM APIs, event loop, closures, performance profiling, and web standards." },
+        { "name": "HTML5", "level": "Expert", "tag": "Standard", "description": "Semantic markup, accessibility (a11y), SEO architecture, Open Graph standards, and modern web APIs." },
+        { "name": "CSS3", "level": "Expert", "tag": "Design", "description": "CSS Grid, Flexbox, custom properties, hardware-accelerated animations, responsive clamp() typography." },
+        { "name": "Vite", "level": "Advanced", "tag": "Tooling", "description": "Blazing-fast HMR builds, rollup bundling, environment configuration, and asset optimization." },
+        { "name": "React Router", "level": "Advanced", "tag": "Routing", "description": "Dynamic routing, nested routes, route transitions, loaders, and state management across views." },
+        { "name": "Responsive Design", "level": "Expert", "tag": "Mobile-First", "description": "Fluid layouts, touch-target ergonomics, zero horizontal scroll, multi-device viewport testing." },
+        { "name": "UI Development", "level": "Expert", "tag": "Design Systems", "description": "Design token hierarchies, modular component systems, micro-interactions, and visual harmony." }
+      ]
+    },
+    {
+      "id": "backend",
+      "name": "Backend & API Engineering",
+      "description": "Building robust server infrastructure, scalable endpoints, and high-throughput data pipelines.",
+      "skills": [
+        { "name": "Node.js", "level": "Advanced", "tag": "Runtime", "description": "Event-driven asynchronous services, stream processing, middleware pipelines, and CLI tooling." },
+        { "name": "Express", "level": "Advanced", "tag": "Framework", "description": "RESTful route architecture, JWT authentication, rate limiting, error middleware, and sanitization." },
+        { "name": "REST APIs", "level": "Expert", "tag": "Protocol", "description": "Predictable schema design, HTTP status conventions, pagination, filtering, and API contracts." }
+      ]
+    },
+    {
+      "id": "database",
+      "name": "Database & Data Modeling",
+      "description": "Designing clean schemas, document stores, and ACID-compliant relational data structures.",
+      "skills": [
+        { "name": "MongoDB", "level": "Advanced", "tag": "NoSQL", "description": "Document schema design, aggregation pipelines, indexing strategies, and MongoDB Atlas clustering." },
+        { "name": "MySQL", "level": "Proficient", "tag": "Relational", "description": "Normalized relational design, foreign keys, transaction handling, and optimized joins." },
+        { "name": "SQL Server", "level": "Proficient", "tag": "Enterprise", "description": "Stored procedures, table relations, indexes, and enterprise data querying." }
+      ]
+    },
+    {
+      "id": "data_analytics",
+      "name": "Data Analytics & Intelligence",
+      "description": "Transforming unstructured business metrics into actionable visual intelligence.",
+      "skills": [
+        { "name": "Python", "level": "Proficient", "tag": "Language", "description": "Scripting, web scraping, data transformation, automation pipelines, and backend workflows." },
+        { "name": "Pandas", "level": "Proficient", "tag": "Data", "description": "Data cleaning, dataframe manipulation, statistical analysis, and aggregation routines." },
+        { "name": "Excel", "level": "Advanced", "tag": "Modeling", "description": "Advanced formulas, pivot models, business logic validation, and quick data prototyping." },
+        { "name": "Power BI", "level": "Proficient", "tag": "BI", "description": "Interactive executive dashboards, DAX queries, metric tracking, and visual reports." }
+      ]
+    },
+    {
+      "id": "tools_services",
+      "name": "Cloud, Tooling & Automation",
+      "description": "Deploying platforms, automating notifications, and managing infrastructure.",
+      "skills": [
+        { "name": "Google Apps Script", "level": "Expert", "tag": "Automation", "description": "Serverless automations, email triggers, Google Sheets database bridges, and scheduled jobs." },
+        { "name": "Google Sheets", "level": "Expert", "tag": "Integration", "description": "Real-time 2-way API sync, lead management backends, formula logic, and CRM feeds." },
+        { "name": "Fast2SMS", "level": "Advanced", "tag": "Messaging", "description": "Transactional SMS routing, OTP verification flows, and instant broker alerts." },
+        { "name": "Twilio", "level": "Proficient", "tag": "Communications", "description": "Programmable messaging, voice gateway integrations, and delivery webhooks." },
+        { "name": "Vercel", "level": "Advanced", "tag": "Deployment", "description": "Global edge deployments, custom domains, automated preview builds, and CI/CD pipelines." },
+        { "name": "Git", "level": "Advanced", "tag": "VCS", "description": "Branching workflows, rebasing, merge resolution, commit hygiene, and repository management." },
+        { "name": "GitHub", "level": "Advanced", "tag": "Collaboration", "description": "Project management, pull request reviews, repository governance, and webhooks." }
+      ]
+    },
+    {
+      "id": "ai_development",
+      "name": "AI & Accelerated Engineering",
+      "description": "Supercharging development cycles and embedding intelligent capabilities into digital products.",
+      "skills": [
+        { "name": "AI-assisted development", "level": "Expert", "tag": "Methodology", "description": "Accelerated full-stack scaffolding, architectural verification, and test generation." },
+        { "name": "Prompt engineering", "level": "Expert", "tag": "LLM", "description": "Structured prompting, context framing, few-shot conditioning, and deterministic output schema." },
+        { "name": "AI tools", "level": "Advanced", "tag": "Ecosystem", "description": "Modern LLMs, code generation assistants, embeddings, and intelligent workflow assistants." },
+        { "name": "Debugging", "level": "Expert", "tag": "Diagnostic", "description": "Root-cause analysis, network profiling, memory leak detection, and performance audits." },
+        { "name": "API integration", "level": "Expert", "tag": "Connectivity", "description": "Third-party SDKs, OAuth authentication, webhook listeners, and resilient retry logic." }
+      ]
+    }
+  ]
+}

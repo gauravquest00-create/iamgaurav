@@ -1,0 +1,114 @@
+{
+  "name": "Gaurav",
+  "role": "Full-Stack Developer • System Designer • System Architecture",
+  "tagline": "I don't just write code. I build digital products and experiences.",
+  "microLabel": "INDEPENDENT DEVELOPER · DIGITAL PRODUCT BUILDER",
+  "headline": "Building digital products that people remember.",
+  "subheadline": "I design and develop modern web experiences, SaaS products and conversion-focused interfaces.",
+  "availability": "Available for freelance projects",
+  "location": "Gurugram, India",
+  "email": "contact@gauravbuilds.com",
+  "about": {
+    "intro": "I am a full-stack engineer and system architect specializing in turning complex business concepts into fluid, high-conversion web applications.",
+    "story": [
+      "Over the past several years, I have architected and deployed SaaS CRM platforms, intelligent real estate workspaces, agency systems, and bespoke digital commerce products.",
+      "My philosophy centers on the intersection of deep engineering rigor and thoughtful interaction design. Code is simply the medium—the real product is the speed, clarity, and delight experienced by the person using it.",
+      "I prioritize extreme mobile responsiveness, sub-second load times, modular system architectures, and frictionless user journeys that drive real business results."
+    ],
+    "philosophy": [
+      {
+        "title": "System Architecture First",
+        "description": "Before writing a single component, I structure the data flow, schemas, and API contracts to ensure the platform scales effortlessly without tech debt."
+      },
+      {
+        "title": "Obsession with Interaction & Motion",
+        "description": "Interfaces should feel alive. Subtle animations, physics-based micro-interactions, and clear visual hierarchy transform static software into an engaging experience."
+      },
+      {
+        "title": "Product-Minded Engineering",
+        "description": "Features exist to solve business challenges. Every button, route, and layout choice is optimized for conversion, usability, and speed."
+      },
+      {
+        "title": "Zero Bloat, High Performance",
+        "description": "I believe in clean, modern vanilla CSS and well-structured React components over heavy generic utility frameworks and bulky dependencies."
+      }
+    ],
+    "process": [
+      {
+        "step": "01",
+        "name": "Understand",
+        "detail": "Deconstruct the core problem, user personas, business objectives, and technical constraints to establish a clear architectural blueprint."
+      },
+      {
+        "step": "02",
+        "name": "Design",
+        "detail": "Formulate design systems, typography hierarchy, fluid layouts, and interaction choreographies tailored specifically to the product's identity."
+      },
+      {
+        "step": "03",
+        "name": "Build",
+        "detail": "Develop modular full-stack components, robust REST APIs, resilient database schemas, and clean, separated CSS stylesheets."
+      },
+      {
+        "step": "04",
+        "name": "Refine",
+        "detail": "Rigorous mobile-first testing across screen widths (360px–1920px), performance profiling, 60fps interaction audits, and accessibility checks."
+      },
+      {
+        "step": "05",
+        "name": "Launch",
+        "detail": "Deploy to high-speed global edge infrastructure (Vercel), configure automated webhooks, domain routing, and analytics."
+      }
+    ],
+    "capabilities": [
+      {
+        "id": "frontend",
+        "title": "Frontend Development",
+        "description": "Modern React, Vite, ES6+, responsive mobile-first architectures, and performance-tuned SPAs.",
+        "icon": "Layers"
+      },
+      {
+        "id": "fullstack",
+        "title": "Full-Stack Development",
+        "description": "End-to-end web systems integrating Node.js, Express, MongoDB Atlas, and relational databases.",
+        "icon": "Server"
+      },
+      {
+        "id": "saas",
+        "title": "SaaS Development",
+        "description": "Multi-tenant platforms, automated deal matchers, role-based workflows, and revenue systems.",
+        "icon": "Box"
+      },
+      {
+        "id": "uiux",
+        "title": "UI / UX & Motion",
+        "description": "Editorial typography, subtle micro-interactions, dark/light theme systems, and custom 3D canvas visuals.",
+        "icon": "Compass"
+      },
+      {
+        "id": "realty",
+        "title": "Real Estate Technology",
+        "description": "Property management portals, dynamic listings, and broker pipeline automation engines.",
+        "icon": "Building"
+      },
+      {
+        "id": "ecommerce",
+        "title": "E-commerce Systems",
+        "description": "D2C brand storytelling, dynamic product catalogs, shopping cart logic, and conversion funnels.",
+        "icon": "ShoppingBag"
+      },
+      {
+        "id": "api",
+        "title": "API & Serverless Integration",
+        "description": "RESTful endpoints, Google Apps Script bridges, Twilio/Fast2SMS, and third-party webhooks.",
+        "icon": "Cpu"
+      },
+      {
+        "id": "ai",
+        "title": "AI-Assisted Development",
+        "description": "Prompt engineering, intelligent workflow assistants, automated lead scoring, and rapid prototyping.",
+        "icon": "Sparkles"
+      }
+    ]
+  }
+}

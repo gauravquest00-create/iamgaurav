@@ -1,0 +1,78 @@
+.custom-cursor-dot {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: var(--accent);
+  pointer-events: none;
+  z-index: 9999;
+  margin-top: -3px;
+  margin-left: -3px;
+  opacity: 0;
+  transition: opacity 0.2s ease, transform 0.05s linear;
+}
+
+.custom-cursor-follower {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  border: 1.5px solid var(--accent);
+  background: rgba(99, 102, 241, 0.06);
+  pointer-events: none;
+  z-index: 9998;
+  margin-top: -16px;
+  margin-left: -16px;
+  opacity: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: width 0.25s cubic-bezier(0.16, 1, 0.3, 1), 
+              height 0.25s cubic-bezier(0.16, 1, 0.3, 1), 
+              margin 0.25s cubic-bezier(0.16, 1, 0.3, 1),
+              background 0.2s ease,
+              border-color 0.2s ease,
+              opacity 0.2s ease;
+}
+
+.custom-cursor-dot.is-visible,
+.custom-cursor-follower.is-visible {
+  opacity: 1;
+}
+
+.custom-cursor-follower.is-hovered {
+  width: 48px;
+  height: 48px;
+  margin-top: -24px;
+  margin-left: -24px;
+  background: rgba(99, 102, 241, 0.15);
+  border-color: var(--accent-light);
+}
+
+.custom-cursor-follower.is-card-hovered {
+  width: 76px;
+  height: 76px;
+  margin-top: -38px;
+  margin-left: -38px;
+  background: var(--text-primary);
+  border-color: var(--text-primary);
+}
+
+.cursor-text {
+  font-family: var(--font-mono);
+  font-size: 0.625rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  color: var(--bg-primary);
+}
+
+@media (pointer: coarse), (hover: none) {
+  .custom-cursor-dot,
+  .custom-cursor-follower {
+    display: none !important;
+  }
+}

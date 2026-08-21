@@ -1,0 +1,38 @@
+[
+  {
+    "id": "github",
+    "name": "GitHub",
+    "handle": "gauravbuilds",
+    "url": "https://github.com/",
+    "description": "Explore open-source repositories, developer tools, and full-stack experiments.",
+    "featured": true,
+    "icon": "Github"
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn",
+    "handle": "gaurav-developer",
+    "url": "https://www.linkedin.com/",
+    "description": "Professional background, system architecture insights, and project updates.",
+    "featured": true,
+    "icon": "Linkedin"
+  },
+  {
+    "id": "email",
+    "name": "Email Contact",
+    "handle": "contact@gauravbuilds.com",
+    "url": "mailto:contact@gauravbuilds.com",
+    "description": "Direct communication for project inquiries, freelance contracts, and system consulting.",
+    "featured": true,
+    "icon": "Mail"
+  },
+  {
+    "id": "maps",
+    "name": "Google Maps Local Guide",
+    "handle": "Level 4 Guide (22k+ Views)",
+    "url": "https://maps.google.com/",
+    "description": "Active community contributor and verified Local Guide across Gurugram tech & commercial sectors.",
+    "featured": false,
+    "icon": "MapPin"
+  }
+]

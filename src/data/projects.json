@@ -1,0 +1,224 @@
+[
+  {
+    "id": "dealnexis",
+    "number": "01",
+    "name": "DealNexis CRM",
+    "type": "SaaS Platform",
+    "tagline": "Next-Generation Automated Real Estate Deal Intelligence & Lead Matching Engine",
+    "description": "Multi-tenant CRM with automated lead management and client tracking system.",
+    "overview": "DealNexis is a comprehensive real estate CRM built to streamline lead management, property matching, and agent commission tracking. It includes an auto-deal matching engine, smart deal creation with scoring, and integrated Google Sheets sync.",
+    "features": [
+      "Auto deal matching engine",
+      "Scan properties & lead requirements",
+      "Smart note capture",
+      "Voice-to-requirement conversion",
+      "Commission breakdown",
+      "Smart document management",
+      "REST API for third-party lead capture"
+    ],
+    "tech": ["React", "Node.js", "MongoDB", "Express", "REST APIs"],
+    "categories": ["SaaS", "Real Estate", "Web App"],
+    "live": "https://dealnexis.vercel.app/",
+    "github": "https://github.com/your-username/dealnexis",
+    "featured": true,
+    "accentColor": "#6366F1",
+    "stats": [
+      { "label": "Architecture", "value": "Multi-tenant MERN" },
+      { "label": "Engine", "value": "Auto Lead Matcher" },
+      { "label": "Sync Speed", "value": "< 100ms API" }
+    ],
+    "highlights": [
+      "Engineered automated lead-property compatibility scoring algorithm",
+      "Built resilient 2-way data bridge connecting MongoDB Atlas with Google Sheets",
+      "Implemented role-based agent workspace with transparent commission accounting"
+    ]
+  },
+  {
+    "id": "propintel",
+    "number": "02",
+    "name": "PropIntel",
+    "type": "Property & Lead Intelligence Workspace",
+    "tagline": "Centralized Workspace for High-Frequency Property Analysis & Workflow Automation",
+    "description": "Property and lead intelligence workspace designed for smarter real estate workflows.",
+    "overview": "PropIntel is a property and lead intelligence workspace focused on organizing property information, lead requirements and real estate workflows into a clean, useful interface.",
+    "features": [
+      "Intelligent property portfolio management",
+      "Lead requirement structuring & indexing",
+      "Micro-market workflow automation",
+      "Instant query filtering & analytical views",
+      "Modular high-performance responsive UI"
+    ],
+    "tech": ["React", "Vite", "JavaScript", "HTML", "CSS"],
+    "categories": ["Real Estate", "Web App", "Business"],
+    "live": "https://propintel-ge.vercel.app/",
+    "featured": true,
+    "accentColor": "#8B5CF6",
+    "stats": [
+      { "label": "Ecosystem", "value": "Vite + React SPA" },
+      { "label": "Latency", "value": "Zero Layout Shift" },
+      { "label": "Focus", "value": "Data Density" }
+    ],
+    "highlights": [
+      "Streamlined multi-attribute search across thousands of property records",
+      "Created distraction-free dark interface optimized for intensive broker sessions",
+      "Engineered client-side caching for instant UI state transitions"
+    ]
+  },
+  {
+    "id": "naturalnestorganic",
+    "number": "03",
+    "name": "NaturalNestOrganic",
+    "type": "Honey Brand & Mini E-commerce",
+    "tagline": "Pure Brand Storytelling Meets High-Conversion D2C E-commerce Experience",
+    "description": "A honey company website combining brand storytelling with a mini e-commerce experience.",
+    "overview": "NaturalNestOrganic is a honey brand website that presents the company's brand, products and online shopping experience in one place. It harmoniously combines authentic brand presence, dynamic product presentation, a full honey product catalog, and an effortless customer-facing purchase flow.",
+    "features": [
+      "Brand storytelling & visual identity",
+      "Dynamic honey product catalog",
+      "Interactive taste profile & provenance showcase",
+      "Mini e-commerce shopping bag & checkout interface",
+      "Customer-facing responsive product experience"
+    ],
+    "tech": ["React", "Vite", "JavaScript", "CSS3", "Responsive UI"],
+    "categories": ["E-commerce", "Business", "Brand Website"],
+    "live": "https://naturalnestorganic.com/",
+    "featured": true,
+    "accentColor": "#EC4899",
+    "stats": [
+      { "label": "Brand", "value": "NaturalNest Organic" },
+      { "label": "Stack", "value": "Vite + Modern CSS" },
+      { "label": "Design", "value": "D2C Luxury" }
+    ],
+    "highlights": [
+      "Crafted bespoke visual narrative reflecting pure organic craftsmanship",
+      "Engineered lightweight client-side cart with instant feedback",
+      "Optimized assets and layout for sub-second mobile page loads"
+    ]
+  },
+  {
+    "id": "luxurynest",
+    "number": "04",
+    "name": "LuxuryNest",
+    "type": "Real Estate Website",
+    "tagline": "High-End Architectural Real Estate Showcase with Automated Lead Ingestion",
+    "description": "Real estate website with dynamic listings and automated lead capture.",
+    "overview": "LuxuryNest is a fully responsive property listing platform integrated with Google Apps Script. It automates lead storage in Google Sheets and sends email notifications, making it perfect for real estate agents.",
+    "features": [
+      "Dynamic property listings & gallery",
+      "Faceted property filtering",
+      "Google Apps Script integration",
+      "Automatic lead capture to Google Sheets",
+      "Instant email notifications for incoming leads",
+      "Mobile-first responsive design"
+    ],
+    "tech": ["React", "Google Apps Script", "CSS3", "Google Sheets"],
+    "categories": ["Real Estate", "Web App", "Business"],
+    "live": "https://luxurynest.vercel.app/",
+    "featured": false,
+    "accentColor": "#3B82F6",
+    "stats": [
+      { "label": "Backend", "value": "Serverless Apps Script" },
+      { "label": "Storage", "value": "Live Google Sheets" },
+      { "label": "Alerts", "value": "Instant Email" }
+    ],
+    "highlights": [
+      "Implemented zero-maintenance serverless lead capture backend",
+      "Designed immersive editorial layout for premium luxury properties",
+      "Maintained 100% uptime with zero server cost overhead"
+    ]
+  },
+  {
+    "id": "webcraft",
+    "number": "05",
+    "name": "WebCraft",
+    "type": "Agency Platform",
+    "tagline": "Digital Agency Portfolio, Service Inquiries & Client Workflow Portal",
+    "description": "Portfolio and client management platform for web agency.",
+    "overview": "WebCraft is the official portfolio and service portal for my web development agency. It showcases past projects, handles client inquiries, and manages project workflows seamlessly.",
+    "features": [
+      "Client project management dashboard",
+      "Dynamic agency portfolio showcase",
+      "Service inquiry & scope estimation forms",
+      "Interactive contact workflows",
+      "Smooth micro-animations & layout transitions",
+      "Modern editorial UI architecture"
+    ],
+    "tech": ["React", "Express", "Vite", "Node.js"],
+    "categories": ["Business", "Web App", "Agency"],
+    "live": "https://webcraft-woad.vercel.app/",
+    "featured": false,
+    "accentColor": "#10B981",
+    "stats": [
+      { "label": "Type", "value": "Agency Portal" },
+      { "label": "Stack", "value": "React + Express" },
+      { "label": "Performance", "value": "60fps Motion" }
+    ],
+    "highlights": [
+      "Constructed client onboarding funnels with automated qualification",
+      "Integrated modular project showcase cards with rich hover effects",
+      "Clean separation of presentation layer and API endpoints"
+    ]
+  },
+  {
+    "id": "ironparadise",
+    "number": "06",
+    "name": "IronParadise",
+    "type": "Gym Management",
+    "tagline": "Specialized Member Lifecycle, Attendance & Subscription System",
+    "description": "Custom gym management system for member tracking.",
+    "overview": "IronParadise is a specialized web application designed for gym owners to manage memberships, track attendance, and handle subscription renewals effortlessly.",
+    "features": [
+      "Member registration & profile management",
+      "Daily attendance tracking & log book",
+      "Subscription renewal alerts & status tags",
+      "Centralized administrative dashboard",
+      "Business metrics & revenue analytics"
+    ],
+    "tech": ["React", "Node.js", "MongoDB", "Express"],
+    "categories": ["Management", "Web App"],
+    "live": "https://ironparadisgyms.vercel.app/",
+    "featured": false,
+    "accentColor": "#F59E0B",
+    "stats": [
+      { "label": "Target", "value": "Fitness Centers" },
+      { "label": "Database", "value": "MongoDB Atlas" },
+      { "label": "Security", "value": "JWT Authentication" }
+    ],
+    "highlights": [
+      "Automated subscription expiration calculation and renewal flags",
+      "Delivered single-touch attendance check-in for high-volume desk operations",
+      "Built visual membership analytics for revenue forecasting"
+    ]
+  },
+  {
+    "id": "gauravassociates",
+    "number": "07",
+    "name": "GauravAssociates",
+    "type": "Business Demo Site",
+    "tagline": "Turnkey Real Estate Lead Generation & Advisory Demonstration Platform",
+    "description": "A business demo website similar to LuxuryNest, showcasing lead generation and property listings.",
+    "overview": "Gaurav Associates is a demo business website built to replicate the functionality of LuxuryNest. It serves as a template for real estate agents looking for a modern online presence.",
+    "features": [
+      "Property listing display & showcase",
+      "Interactive enquiry lead capture",
+      "Google Apps Script automation bridge",
+      "Direct email notification dispatch",
+      "Professional corporate branding & layout"
+    ],
+    "tech": ["React", "Google Apps Script", "CSS3"],
+    "categories": ["Real Estate", "Business", "Web App"],
+    "live": "https://gauravassociates.vercel.app/",
+    "featured": false,
+    "accentColor": "#06B6D4",
+    "stats": [
+      { "label": "Category", "value": "Realty Demo" },
+      { "label": "Automation", "value": "Google Apps Script" },
+      { "label": "Form Sync", "value": "Real-time" }
+    ],
+    "highlights": [
+      "Engineered reproducible white-label property portal architecture",
+      "Demonstrated instantaneous lead ingestion with zero hosting backend cost",
+      "Strict mobile-responsive design tuned for mobile property buyers"
+    ]
+  }
+]

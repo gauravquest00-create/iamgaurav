@@ -1,0 +1,57 @@
+.reveal-wrapper {
+  transition-property: opacity, transform, filter;
+  transition-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: transform, opacity;
+}
+
+/* FADE UP */
+.reveal-fade-up {
+  opacity: 0;
+  transform: translateY(32px);
+}
+.reveal-fade-up.is-revealed {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* FADE LEFT */
+.reveal-fade-left {
+  opacity: 0;
+  transform: translateX(-36px);
+}
+.reveal-fade-left.is-revealed {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* FADE RIGHT */
+.reveal-fade-right {
+  opacity: 0;
+  transform: translateX(36px);
+}
+.reveal-fade-right.is-revealed {
+  opacity: 1;
+  transform: translateX(0);
+}
+
+/* SCALE */
+.reveal-scale {
+  opacity: 0;
+  transform: scale(0.92);
+}
+.reveal-scale.is-revealed {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* BLUR TO CLEAR */
+.reveal-blur-to-clear {
+  opacity: 0;
+  filter: blur(12px);
+  transform: translateY(16px);
+}
+.reveal-blur-to-clear.is-revealed {
+  opacity: 1;
+  filter: blur(0);
+  transform: translateY(0);
+}

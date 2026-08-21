@@ -1,0 +1,43 @@
+.page-transition-container {
+  width: 100%;
+  min-height: calc(100vh - var(--header-height));
+  animation-duration: 0.4s;
+  animation-fill-mode: both;
+  animation-timing-function: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+.page-transition-container.fadeIn {
+  animation-name: pageFadeIn;
+}
+
+.page-transition-container.fadeOut {
+  animation-name: pageFadeOut;
+}
+
+@keyframes pageFadeIn {
+  0% {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes pageFadeOut {
+  0% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  100% {
+    opacity: 0;
+    transform: translateY(-12px);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page-transition-container {
+    animation: none !important;
+  }
+}
