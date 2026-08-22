@@ -107,7 +107,7 @@ export const Navbar = () => {
         {/* LOGO (ALWAYS VISIBLE) */}
         <NavLink to="/" className="navbar-brand" aria-label="Gaurav Portfolio Home">
           <span className="brand-name">GAURAV</span>
-          <span className="brand-tag">DEV</span>
+          <span className="brand-tag">SYSTEMS</span>
         </NavLink>
 
         {/* DESKTOP NAVIGATION (HIDDEN ON MOBILE) */}
