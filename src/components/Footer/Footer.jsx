@@ -121,7 +121,7 @@ export const Footer = () => {
           <div className="footer-brand">
             <NavLink to="/" className="footer-logo">
               <span className="logo-gradient">GAURAV</span>
-              <span className="logo-sub">SYSTEMS</span>
+              <span className="logo-sub">BUILDS</span>
             </NavLink>
             <p className="footer-role">
               Full-Stack Developer • System Designer • System Architecture
