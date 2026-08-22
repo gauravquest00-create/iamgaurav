@@ -67,7 +67,7 @@ export const Navbar = () => {
       }
     };
 
-    window.adSYSTEMSentListener('scroll', handleScroll, { passive: true });
+    window.addEventListener('scroll', handleScroll, { passive: true });
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
@@ -107,7 +107,7 @@ export const Navbar = () => {
         {/* LOGO (ALWAYS VISIBLE) */}
         <NavLink to="/" className="navbar-brand" aria-label="Gaurav Portfolio Home">
           <span className="brand-name">GAURAV</span>
-          <span className="brand-tag">SYSTEMS</span>
+          <span className="brand-tag">DEV</span>
         </NavLink>
 
         {/* DESKTOP NAVIGATION (HIDDEN ON MOBILE) */}
