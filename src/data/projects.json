@@ -16,16 +16,35 @@
       "Smart document management",
       "REST API for third-party lead capture"
     ],
-    "tech": ["React", "Node.js", "MongoDB", "Express", "REST APIs"],
-    "categories": ["SaaS", "Real Estate", "Web App"],
+    "tech": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express",
+      "REST APIs"
+    ],
+    "categories": [
+      "SaaS",
+      "Real Estate",
+      "Web App"
+    ],
     "live": "https://dealnexis.vercel.app/",
     "github": "https://github.com/your-username/dealnexis",
     "featured": true,
     "accentColor": "#6366F1",
     "stats": [
-      { "label": "Architecture", "value": "Multi-tenant MERN" },
-      { "label": "Engine", "value": "Auto Lead Matcher" },
-      { "label": "Sync Speed", "value": "< 100ms API" }
+      {
+        "label": "Architecture",
+        "value": "Multi-tenant MERN"
+      },
+      {
+        "label": "Engine",
+        "value": "Auto Lead Matcher"
+      },
+      {
+        "label": "Sync Speed",
+        "value": "< 100ms API"
+      }
     ],
     "highlights": [
       "Engineered automated lead-property compatibility scoring algorithm",
@@ -48,15 +67,34 @@
       "Instant query filtering & analytical views",
       "Modular high-performance responsive UI"
     ],
-    "tech": ["React", "Vite", "JavaScript", "HTML", "CSS"],
-    "categories": ["Real Estate", "Web App", "Business"],
+    "tech": [
+      "React",
+      "Vite",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "categories": [
+      "Real Estate",
+      "Web App",
+      "Business"
+    ],
     "live": "https://propintel-ge.vercel.app/",
     "featured": true,
     "accentColor": "#8B5CF6",
     "stats": [
-      { "label": "Ecosystem", "value": "Vite + React SPA" },
-      { "label": "Latency", "value": "Zero Layout Shift" },
-      { "label": "Focus", "value": "Data Density" }
+      {
+        "label": "Ecosystem",
+        "value": "Vite + React SPA"
+      },
+      {
+        "label": "Latency",
+        "value": "Zero Layout Shift"
+      },
+      {
+        "label": "Focus",
+        "value": "Data Density"
+      }
     ],
     "highlights": [
       "Streamlined multi-attribute search across thousands of property records",
@@ -79,15 +117,34 @@
       "Mini e-commerce shopping bag & checkout interface",
       "Customer-facing responsive product experience"
     ],
-    "tech": ["React", "Vite", "JavaScript", "CSS3", "Responsive UI"],
-    "categories": ["E-commerce", "Business", "Brand Website"],
+    "tech": [
+      "React",
+      "Vite",
+      "JavaScript",
+      "CSS3",
+      "Responsive UI"
+    ],
+    "categories": [
+      "E-commerce",
+      "Business",
+      "Brand Website"
+    ],
     "live": "https://naturalnestorganic.com/",
     "featured": true,
     "accentColor": "#EC4899",
     "stats": [
-      { "label": "Brand", "value": "NaturalNest Organic" },
-      { "label": "Stack", "value": "Vite + Modern CSS" },
-      { "label": "Design", "value": "D2C Luxury" }
+      {
+        "label": "Brand",
+        "value": "NaturalNest Organic"
+      },
+      {
+        "label": "Stack",
+        "value": "Vite + Modern CSS"
+      },
+      {
+        "label": "Design",
+        "value": "D2C Luxury"
+      }
     ],
     "highlights": [
       "Crafted bespoke visual narrative reflecting pure organic craftsmanship",
@@ -111,15 +168,33 @@
       "Instant email notifications for incoming leads",
       "Mobile-first responsive design"
     ],
-    "tech": ["React", "Google Apps Script", "CSS3", "Google Sheets"],
-    "categories": ["Real Estate", "Web App", "Business"],
+    "tech": [
+      "React",
+      "Google Apps Script",
+      "CSS3",
+      "Google Sheets"
+    ],
+    "categories": [
+      "Real Estate",
+      "Web App",
+      "Business"
+    ],
     "live": "https://luxurynest.vercel.app/",
     "featured": false,
     "accentColor": "#3B82F6",
     "stats": [
-      { "label": "Backend", "value": "Serverless Apps Script" },
-      { "label": "Storage", "value": "Live Google Sheets" },
-      { "label": "Alerts", "value": "Instant Email" }
+      {
+        "label": "Backend",
+        "value": "Serverless Apps Script"
+      },
+      {
+        "label": "Storage",
+        "value": "Live Google Sheets"
+      },
+      {
+        "label": "Alerts",
+        "value": "Instant Email"
+      }
     ],
     "highlights": [
       "Implemented zero-maintenance serverless lead capture backend",
@@ -143,15 +218,33 @@
       "Smooth micro-animations & layout transitions",
       "Modern editorial UI architecture"
     ],
-    "tech": ["React", "Express", "Vite", "Node.js"],
-    "categories": ["Business", "Web App", "Agency"],
+    "tech": [
+      "React",
+      "Express",
+      "Vite",
+      "Node.js"
+    ],
+    "categories": [
+      "Business",
+      "Web App",
+      "Agency"
+    ],
     "live": "https://webcraft-woad.vercel.app/",
     "featured": false,
     "accentColor": "#10B981",
     "stats": [
-      { "label": "Type", "value": "Agency Portal" },
-      { "label": "Stack", "value": "React + Express" },
-      { "label": "Performance", "value": "60fps Motion" }
+      {
+        "label": "Type",
+        "value": "Agency Portal"
+      },
+      {
+        "label": "Stack",
+        "value": "React + Express"
+      },
+      {
+        "label": "Performance",
+        "value": "60fps Motion"
+      }
     ],
     "highlights": [
       "Constructed client onboarding funnels with automated qualification",
@@ -174,15 +267,32 @@
       "Centralized administrative dashboard",
       "Business metrics & revenue analytics"
     ],
-    "tech": ["React", "Node.js", "MongoDB", "Express"],
-    "categories": ["Management", "Web App"],
+    "tech": [
+      "React",
+      "Node.js",
+      "MongoDB",
+      "Express"
+    ],
+    "categories": [
+      "Management",
+      "Web App"
+    ],
     "live": "https://ironparadisgyms.vercel.app/",
     "featured": false,
     "accentColor": "#F59E0B",
     "stats": [
-      { "label": "Target", "value": "Fitness Centers" },
-      { "label": "Database", "value": "MongoDB Atlas" },
-      { "label": "Security", "value": "JWT Authentication" }
+      {
+        "label": "Target",
+        "value": "Fitness Centers"
+      },
+      {
+        "label": "Database",
+        "value": "MongoDB Atlas"
+      },
+      {
+        "label": "Security",
+        "value": "JWT Authentication"
+      }
     ],
     "highlights": [
       "Automated subscription expiration calculation and renewal flags",
@@ -205,20 +315,93 @@
       "Direct email notification dispatch",
       "Professional corporate branding & layout"
     ],
-    "tech": ["React", "Google Apps Script", "CSS3"],
-    "categories": ["Real Estate", "Business", "Web App"],
+    "tech": [
+      "React",
+      "Google Apps Script",
+      "CSS3"
+    ],
+    "categories": [
+      "Real Estate",
+      "Business",
+      "Web App"
+    ],
     "live": "https://gauravassociates.vercel.app/",
     "featured": false,
     "accentColor": "#06B6D4",
     "stats": [
-      { "label": "Category", "value": "Realty Demo" },
-      { "label": "Automation", "value": "Google Apps Script" },
-      { "label": "Form Sync", "value": "Real-time" }
+      {
+        "label": "Category",
+        "value": "Realty Demo"
+      },
+      {
+        "label": "Automation",
+        "value": "Google Apps Script"
+      },
+      {
+        "label": "Form Sync",
+        "value": "Real-time"
+      }
     ],
     "highlights": [
       "Engineered reproducible white-label property portal architecture",
       "Demonstrated instantaneous lead ingestion with zero hosting backend cost",
       "Strict mobile-responsive design tuned for mobile property buyers"
+    ]
+  },
+  {
+    "id": "dealdesk",
+    "number": "08",
+    "name": "Deal Desk",
+    "type": "Real Estate Deal Workspace",
+    "tagline": "From Property QR Scan to Closed Deal — One Intelligent Workspace",
+    "description": "A real estate deal workspace that transforms physical property discovery into qualified leads, smart matches, personalized outreach, site visits, and closed deals.",
+    "overview": "Deal Desk is a conversion-focused real estate workspace that connects property inventory, Smart QR lead acquisition, Open House visitor capture, intelligent property matching, personalized WhatsApp outreach, site visits, post-viewing feedback, negotiations, and deal closure into one streamlined workflow.",
+    "features": [
+      "Smart QR property lead capture",
+      "Open House visitor check-in",
+      "Automated lead ingestion",
+      "7-factor AI property matching",
+      "Personalized WhatsApp outreach",
+      "Listing preview generation",
+      "Site visit scheduling & tracking",
+      "Structured post-viewing reports",
+      "Visual negotiation & deal pipeline",
+      "Property-to-deal conversion tracking"
+    ],
+    "tech": [
+      "React",
+      "Vite",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "REST APIs"
+    ],
+    "categories": [
+      "SaaS",
+      "Real Estate",
+      "Web App"
+    ],
+    "live": "https://dealdeskworkspace.vercel.app/",
+    "featured": true,
+    "accentColor": "#0F766E",
+    "stats": [
+      {
+        "label": "Workflow",
+        "value": "QR → Deal"
+      },
+      {
+        "label": "Matching",
+        "value": "7-Factor AI"
+      },
+      {
+        "label": "Focus",
+        "value": "Deal Conversion"
+      }
+    ],
+    "highlights": [
+      "Designed a physical-to-digital lead acquisition workflow using dynamic property Smart QRs",
+      "Built a 7-factor matching engine to identify high-intent property-lead combinations",
+      "Connected lead qualification, WhatsApp outreach, site visits, viewing feedback, negotiations, and deal closure into one workspace"
     ]
   }
 ]
