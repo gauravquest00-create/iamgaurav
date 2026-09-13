@@ -512,5 +512,77 @@
     "Built a streamlined property enquiry workflow connected with Google Sheets for lead tracking",
     "Engineered a responsive and performance-focused interface for property buyers across desktop and mobile"
   ]
+},
+{
+  "id": "reva-assiste",
+  "number": "11",
+  "name": "REVA ASSISTE",
+  "type": "AI-Powered Real Estate Sales Intelligence & Brokerage Operating System",
+  "tagline": "An AI Sales Intelligence System That Helps Real Estate Advisors Decide What to Do Next",
+  "description": "An enterprise-grade real estate sales intelligence operating system designed to help sales advisors manage leads, projects, inventory, site visits, negotiations, and closing decisions.",
+  "overview": "REVA ASSISTE is a full-stack AI-powered sales intelligence platform built specifically for real estate advisors and brokerages. Instead of functioning as a generic CRM, it analyzes lead context, project intelligence, inventory, conversations, site visits, objections, and negotiations to recommend the next best sales action.",
+  "features": [
+    "AI Sales Command Center",
+    "Explainable 0–100 lead scoring",
+    "Daily sales task recommendations",
+    "What To Say / What To Ask / What Not To Say guidance",
+    "Deals-at-risk detection & closing recommendations",
+    "Real estate corridor intelligence",
+    "Verified project intelligence",
+    "Project comparison & alternative recommendations",
+    "AI-powered lead diagnostics",
+    "Natural-language conversation note analysis",
+    "Automated requirement & objection extraction",
+    "Smart inventory management & bulk import",
+    "AI-recommended follow-up timing",
+    "Post-site-visit sentiment analysis",
+    "Deal negotiation intelligence",
+    "Counter-offer & token tracking",
+    "KYC documentation tracking",
+    "Sales pitch & WhatsApp script generation",
+    "Progressive Web App support"
+  ],
+  "tech": [
+    "React",
+    "Vite",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "REST APIs",
+    "AI Integration",
+    "PWA"
+  ],
+  "categories": [
+    "AI",
+    "SaaS",
+    "Real Estate",
+    "Sales Intelligence",
+    "Business"
+  ],
+  "live": "https://reva-assiste.vercel.app/",
+  "github": "https://github.com/gauravquest00-create/revaAssiste",
+  "featured": true,
+  "accentColor": "#7C3AED",
+  "stats": [
+    {
+      "label": "Intelligence",
+      "value": "AI Sales Advisor"
+    },
+    {
+      "label": "Focus",
+      "value": "Lead → Deal"
+    },
+    {
+      "label": "Platform",
+      "value": "Full-Stack PWA"
+    }
+  ],
+  "highlights": [
+    "Engineered an AI-powered sales command center that translates lead context into actionable sales recommendations",
+    "Built interconnected intelligence across leads, projects, inventory, site visits, follow-ups, objections, and negotiations",
+    "Developed explainable lead scoring, conversation intelligence, project comparison, and deal-risk workflows for real estate sales teams",
+    "Designed the platform around the core sales question: what should the advisor do next to move the lead toward a deal?"
+  ]
 }
+
 ]
