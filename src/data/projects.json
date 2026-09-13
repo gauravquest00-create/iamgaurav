@@ -403,5 +403,114 @@
       "Built a 7-factor matching engine to identify high-intent property-lead combinations",
       "Connected lead qualification, WhatsApp outreach, site visits, viewing feedback, negotiations, and deal closure into one workspace"
     ]
-  }
+  },
+  {
+  "id": "buildforgestudio",
+  "number": "09",
+  "name": "BuildForge Studio",
+  "type": "Development Studio & CMS",
+  "tagline": "An Online Development Studio for Modern Businesses",
+  "description": "A full-stack development studio and content management system for delivering rapid development tasks, custom web applications, SaaS MVPs, and internal business software.",
+  "overview": "BuildForge Studio is a full-stack web application and content management system engineered to help modern businesses access rapid development services, from $25+ bug fixes and integrations to custom web applications, SaaS MVPs, and business internal software.",
+  "features": [
+    "Rapid development task intake",
+    "Bug fixes & integrations",
+    "Custom web application development",
+    "SaaS MVP development",
+    "Internal business software development",
+    "Content management system",
+    "Development service workflow",
+    "Business-focused digital solutions"
+  ],
+  "tech": [
+    "React",
+    "Vite",
+    "Node.js",
+    "Express",
+    "MongoDB",
+    "REST APIs"
+  ],
+  "categories": [
+    "SaaS",
+    "Development",
+    "Business"
+  ],
+  "live": "https://buildforgestudio.vercel.app/",
+  "github": "https://github.com/gauravquest00-create/buildforgestudio",
+  "featured": true,
+  "accentColor": "#F97316",
+  "stats": [
+    {
+      "label": "Model",
+      "value": "Online Dev Studio"
+    },
+    {
+      "label": "Starting From",
+      "value": "$25+ Tasks"
+    },
+    {
+      "label": "Focus",
+      "value": "Business Software"
+    }
+  ],
+  "highlights": [
+    "Engineered an online development studio focused on solving practical business technology problems",
+    "Structured a service workflow spanning rapid bug fixes, integrations, custom applications, SaaS MVPs, and internal software",
+    "Combined a full-stack web application with content management capabilities for managing a modern development service"
+  ]
+},
+{
+  "id": "globalhomes",
+  "number": "10",
+  "name": "Global Homes",
+  "type": "Premium Real Estate Website",
+  "tagline": "High-Performance Real Estate Lead Generation Website for Premium Property Businesses",
+  "description": "A modern real estate lead generation website for Global Homes, a premium real estate business based in Gurugram.",
+  "overview": "Global Homes is a premium real estate website designed to showcase properties, establish a strong digital presence, and capture buyer enquiries through an automated Google Sheets lead tracking workflow.",
+  "features": [
+    "Premium real estate property showcase",
+    "Lead generation & enquiry capture",
+    "Google Sheets integration",
+    "Automated lead tracking",
+    "Responsive mobile-first interface",
+    "High-performance React architecture",
+    "Modern premium real estate UI"
+  ],
+  "tech": [
+    "React",
+    "Vite",
+    "JavaScript",
+    "CSS3",
+    "Google Sheets"
+  ],
+  "categories": [
+    "Real Estate",
+    "Lead Generation",
+    "Business",
+    "Web App"
+  ],
+  "live": "https://globalhomesestate.vercel.app/",
+  "github": "https://github.com/gauravquest00-create/globalhomes",
+  "featured": false,
+  "accentColor": "#14B8A6",
+  "stats": [
+    {
+      "label": "Business",
+      "value": "Global Homes"
+    },
+    {
+      "label": "Stack",
+      "value": "React + Vite"
+    },
+    {
+      "label": "Lead System",
+      "value": "Google Sheets"
+    }
+  ],
+  "highlights": [
+    "Designed a premium digital presence for a Gurugram-based real estate business",
+    "Built a streamlined property enquiry workflow connected with Google Sheets for lead tracking",
+    "Engineered a responsive and performance-focused interface for property buyers across desktop and mobile"
+  ]
+}
 ]
